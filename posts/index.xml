@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Just Enough Craig</title>
+    <link>https://justenoughcraig.github.io/posts/</link>
+    <description>Recent content in Posts on Just Enough Craig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://justenoughcraig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crash and reboot</title>
+      <link>https://justenoughcraig.github.io/posts/2021-01-04-crash_and_reboot/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://justenoughcraig.github.io/posts/2021-01-04-crash_and_reboot/</guid>
+      <description>Ten days ago, the day after Christmas, I crashed my bicycle at Tempe Beach Park going around a slick curve. It was an uncomplicated crash—the kind I typically get up from with no more harm than some scrapes and bruises and maybe some shredded Lycra. But I didn&amp;#8217;t get up from this crash. Not right away, not without tremendous difficulty, and not without realizing I wasn&amp;#8217;t going to get to the grass five feet away without crawling.</description>
+    </item>
+    
+  </channel>
+</rss>

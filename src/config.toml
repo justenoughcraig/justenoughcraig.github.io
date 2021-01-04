@@ -1,0 +1,9 @@
+baseURL = "https://justenoughcraig.github.io/"
+languageCode = "en-us"
+title = "Just Enough Craig"
+
+[taxonomies]
+tag = "tags"
+
+[params]
+email = "c.m.brandenburg@gmail.com"

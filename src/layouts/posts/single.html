@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>{{ .Title }}</title>
+  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}jec.css" />
+ </head>
+ <body>
+  <h1>{{ .Title }}</h1>
+  <em>{{ .Date.Format "Monday, January 2, 2006" }}</em>
+  {{ .Content }}
+  <hr>
+  <p>Got feedback? Write to <a href="mailto:{{ .Site.Params.Email }}">{{ .Site.Params.Email }}</a>.</p>
+ </body>
+</html>
