@@ -1,2 +1,0 @@
-# justenoughcraig.github.io
-Blog
