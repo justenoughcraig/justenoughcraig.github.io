@@ -6,8 +6,7 @@
  <body>
   <h1>{{ .Title }}</h1>
   Craig M. Brandenburg<br/>
-  <a href="mailto:{{ .Site.Params.Email }}">{{ .Site.Params.Email }}</a><br/>
-  <!-- <a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a> -->
+  <a href="mailto:{{ .Site.Params.Email }}?subject={{ .Site.Title }}">{{ .Site.Params.Email }}</a><br/>
   <a href="{{ .Site.RSSLink }}">RSS</a><br/>
   <h2>Posts</h2>
   <ul reversed>

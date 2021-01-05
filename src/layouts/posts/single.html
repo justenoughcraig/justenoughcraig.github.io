@@ -9,6 +9,6 @@
   <em>{{ .Date.Format "Monday, January 2, 2006" }}</em>
   {{ .Content }}
   <hr>
-  <p>Got feedback? Write to <a href="mailto:{{ .Site.Params.Email }}">{{ .Site.Params.Email }}</a>.</p>
+  <p>Got feedback? Write to <a href="mailto:{{ .Site.Params.Email }}?subject={{ .Site.Title }}: {{ .Title }}">{{ .Site.Params.Email }}</a>.</p>
  </body>
 </html>
