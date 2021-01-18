@@ -1,0 +1,38 @@
+---
+title: "Reading Log, 2020"
+date: 2021-01-18
+tags: ["reading_list"]
+---
+
+Last year's reading list is short. My favorite novel is a toss-up
+between _2312_ and _The Years of Rice and Salt_, both by Kim Stanley
+Robinson, who is my new favorite current author. He blends a creative
+and optimistic outlook on things while simultaneously being realistic
+about environmental and political problems going on.
+
+My favorite non-fiction book is _The Boys in the Boat_, which is a
+breezy but fun account of the eight-oar crew team from the University of
+Washington that won the gold at the 1936 Olympics. I'll give an
+honorable mention to _Factfulness_, which is a good reminder to pay
+attention to specifics and to facts rather than relying on narratives—a
+good lesson especially for the year 2020.
+
+My favorite short story is https://poestories.com/read/goldbug[The Gold
+Bug], by Edgar Allan Poe.
+
+Here's the full list of books:
+
+1. _2312_ by Kim Stanley Robinson (2012)
+2. _How To_ by Randall Munroe (2019)
+3. _The Water Knife_ by Paulo Bacigalupi (2015)
+4. _The Boys in the Boat_ by Daniel James Brown (2013)
+5. _The Institute_ by Stephen King (2019)
+6. _Madame Bovary_ by Gustave Flaubert (1856)
+7. _All Systems Red_ by Martha Wells (2017)
+8. _The Rider_ by Tim Krabbé (1978)
+9. _The Years of Rice and Salt_ by Kim Stanley Robinson (2002)
+10. _Sapiens: A Brief History of Humankind_ by Yuval Noah Harari (2017)
+11. _Factfulness: Ten Reasons We're Wrong About the World — and Why
+    Things Are Better Than You Think_ by Hans Rosling, with Ola Rosling
+    and Anna Rosling Rönnlund (2018)
+

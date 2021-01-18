@@ -5,10 +5,8 @@
  </head>
  <body>
   <h1>{{ .Site.Title }}: “{{ .Title }}” tag</h1>
-  <ul>
-   {{ range $x := .Data.Pages }}
-   <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ .Date.Format "2006-01-02" }})</li>
-   {{ end }}
+  <ul>{{ range $x := .Data.Pages }}
+   <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ .Date.Format "2006-01-02" }})</li>{{ end }}
   </ul>
  </body>
 </html>

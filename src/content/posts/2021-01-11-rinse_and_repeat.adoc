@@ -1,6 +1,7 @@
 ---
 title: "Rinse and repeat"
 date: 2021-01-11
+tags: ["health"]
 ---
 
 In April of last year, still in the early days of the pandemic, I quit

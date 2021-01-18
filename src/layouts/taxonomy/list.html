@@ -5,10 +5,8 @@
  </head>
  <body>
   <h1>{{ .Site.Title }}: all {{ .Data.Plural }}</h1>
-  <ul>
-   {{ range .Data.Terms.Alphabetical }}
-   <li><a href="{{.Term}}">{{ .Term }}</a> </li>
-   {{ end }}
+  <ul>{{ range .Data.Terms.Alphabetical }}
+   <li><a href="{{.Term}}">{{ .Term }}</a> ({{ .Count }})</li> {{ end }}
   </ul>
  </body>
 </html>

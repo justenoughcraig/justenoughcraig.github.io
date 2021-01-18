@@ -9,10 +9,8 @@
   <a href="mailto:{{ .Site.Params.Email }}?subject={{ .Site.Title }}">{{ .Site.Params.Email }}</a><br/>
   <a href="{{ .Site.RSSLink }}">RSS</a><br/>
   <h2>Posts</h2>
-  <ul reversed>
-   {{ range .Site.RegularPages }}
-   <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ .Date.Format "2006-01-02" }})</li>
-   {{ end }}
+  <ul reversed>{{ range .Site.RegularPages }}
+   <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ .Date.Format "Monday, 2006-01-02" }})</li>{{ end }}
   </ul>
  </body>
 </html>

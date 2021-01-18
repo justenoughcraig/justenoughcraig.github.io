@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reading_list on Just Enough Craig</title>
+    <link>https://justenoughcraig.github.io/tags/reading_list/</link>
+    <description>Recent content in reading_list on Just Enough Craig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://justenoughcraig.github.io/tags/reading_list/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reading Log, 2020</title>
+      <link>https://justenoughcraig.github.io/posts/2021-01-18-reading_log_2020/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://justenoughcraig.github.io/posts/2021-01-18-reading_log_2020/</guid>
+      <description>Last year&amp;#8217;s reading list is short. My favorite novel is a toss-up between 2312 and The Years of Rice and Salt, both by Kim Stanley Robinson, who is my new favorite current author. He blends a creative and optimistic outlook on things while simultaneously being realistic about environmental and political problems going on.
+ My favorite non-fiction book is The Boys in the Boat, which is a breezy but fun account of the eight-oar crew team from the University of Washington that won the gold at the 1936 Olympics.</description>
+    </item>
+    
+  </channel>
+</rss>

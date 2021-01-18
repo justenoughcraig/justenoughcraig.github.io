@@ -4,11 +4,31 @@
   
   <url>
     <loc>https://justenoughcraig.github.io/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://justenoughcraig.github.io/posts/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justenoughcraig.github.io/posts/2021-01-18-reading_log_2020/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justenoughcraig.github.io/tags/reading_list/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justenoughcraig.github.io/tags/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justenoughcraig.github.io/tags/health/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -20,10 +40,6 @@
   <url>
     <loc>https://justenoughcraig.github.io/posts/2021-01-04-crash_and_reboot/</loc>
     <lastmod>2021-01-04T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://justenoughcraig.github.io/tags/</loc>
   </url>
   
 </urlset>
