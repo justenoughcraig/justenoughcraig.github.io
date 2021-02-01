@@ -6,7 +6,81 @@
     <description>Recent content on Just Enough Craig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://justenoughcraig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://justenoughcraig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting heart rate right</title>
+      <link>https://justenoughcraig.github.io/posts/2021-02-01-getting_heart_rate_right/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://justenoughcraig.github.io/posts/2021-02-01-getting_heart_rate_right/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Nearly all advice I&amp;#8217;ve read about using heart rate for exercise is
+wrong. In this post I&amp;#8217;ll share some of my opinions, which may also be
+wrong, but that I think are less wrong.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;olist arabic&#34;&gt;
+&lt;ol class=&#34;arabic&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Heart rate monitoring makes sense only in the context of subtracting
+out resting heart rate. For example, if you have a resting heart rate of
+50bpm and a maximum heart rate of 170bpm, then you have an &lt;strong&gt;maximum
+heart rate range&lt;/strong&gt; of 120bpm (170bpm - 50bpm). If your aerobic threshold
+heart rate is 155bpm, then you have an &lt;strong&gt;aerobic heart rate range&lt;/strong&gt; of
+105bpm (155bpm - 50bpm). Any heart rate that&amp;#8217;s expressed as a percentage
+should be a percentage of one of these two values. For example, 75% of
+aerobic threshold would be 79bpm (0.75 × 105bpm), which, after we add
+back the resting heart rate of 50bpm, results in an actual heart rate of
+&lt;strong&gt;129bpm&lt;/strong&gt; (79bpm + 50bpm). That would be your 75% aerobic heart rate.&lt;/p&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;It doesn&amp;#8217;t makes sense to advise using X% of maximum heart rate, or X%
+of threshold heart rate, because both of those values fail to account
+for the discrepancies between different people&amp;#8217;s resting heart rate. For
+example, if two people both have an aerobic threshold heart rate of
+160bpm, but one has a resting heart rate of 40bpm and the other has a
+resting heart rate of 60bpm, then the two people will have very
+different aerobic heart rate zones. The reason for this is related to my
+next point.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Your aerobic heart rate range linearly correlates with power
+output&amp;#8212;&amp;#8203;generally speaking. You can track this firsthand on a bicycle
+with a power meter, but it also applies to running and other aerobic
+activities. For example, you can track your stable heart rate at
+different running paces and then use a running power estimator (such as
+&lt;a href=&#34;https://www.alancouzens.com/blog/Run_Power.html&#34;&gt;this one&lt;/a&gt;) to see a
+linear increase in power as heart rate increases. For example, your
+running power should be about 20% higher at 78% of your aerobic heart
+rate than it is at 65% of your aerobic heart rate (because 78% is 20%
+more than 65%).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cardiovascular_drift&#34;&gt;Cardiac drift&lt;/a&gt;
+messes up these percentages. Cardiac drift also messes up resting heart
+rate. It might be true that the linear correlation between heart rate
+and power holds during cardiac drift after accounting for the new,
+higher resting heart rate, but that&amp;#8217;s only speculation. In any case, it
+wouldn&amp;#8217;t be terribly useful as it&amp;#8217;s impractical to get an accurate
+reading for the new resting heart rate during exercise. So cardiac drift
+is something that needs to be accounted for, and I&amp;#8217;m still trying to
+figure that out.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;My takeaway advice from all this is to scrap published heart rate zones
+that say things such as “80% of max heart rate” and instead use the
+&lt;a href=&#34;https://www.trainingpeaks.com/blog/power-training-levels/&#34;&gt;standard
+seven-zone model based on power&lt;/a&gt;, then correlate the power numbers to
+heart rates when you don&amp;#8217;t have access to a power meter, such as when
+running. (Never mind the heart rate percentages specified in that
+link—the article gets it wrong, too.) For example, the top of zone 2 is
+75% of threshold power, so it correlates to 75% of the threshold heart
+rate range.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
     <item>
       <title>A few goals for the year 2021</title>
       <link>https://justenoughcraig.github.io/posts/2021-01-25-goals_for_2021/</link>
