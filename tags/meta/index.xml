@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meta on Just Enough Craig</title>
+    <link>https://justenoughcraig.github.io/tags/meta/</link>
+    <description>Recent content in meta on Just Enough Craig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://justenoughcraig.github.io/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why GitHub?</title>
+      <link>https://justenoughcraig.github.io/posts/2021-02-08-github/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://justenoughcraig.github.io/posts/2021-02-08-github/</guid>
+      <description>GitHub is free for me to use.
+  It&amp;#8217;s sufficient for hosting a static site.
+  It was fast to get started on.
+   At the technical level, this blog—like most blogs—is nothing more than a way for the reader to look at one document at a time while having some links to navigate between documents. This use case is well solved by the early incarnation of the Web back in the 1990s—that bygone era when the browser&amp;#8217;s “back” button worked correctly on all sites.</description>
+    </item>
+    
+  </channel>
+</rss>

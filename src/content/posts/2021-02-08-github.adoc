@@ -1,0 +1,41 @@
+---
+title: "Why GitHub?"
+date: 2021-02-08
+tags: ["meta"]
+---
+
+* GitHub is _free_ for me to use.
+
+* It's _sufficient_ for hosting a static site.
+
+* It was _fast_ to get started on.
+
+At the technical level, this blog—like most blogs—is nothing more than a
+way for the reader to look at one document at a time while having some
+links to navigate between documents. This use case is well solved by the
+early incarnation of the Web back in the 1990s—that bygone era when the
+browser's “back” button worked correctly on all sites. Why should I
+over-complicate things by pulling in bad ideas from the 2000s?
+
+Here are some advantages of _not_ using newfangled web ideas:
+
+* Loads fast and uses few resources.
+ 
+* Renders correctly on all devices, e.g., phones.
+
+* Plays nice with accessibility features, such as screen readers and
+  high-contrast color schemes for the visually impaired.
+
+* Plays nice with user customizations, such as special fonts or
+  light-on-dark “nighttime” color schemes.
+
+* Could easily be moved to another site. The only thing lacking at the
+  moment to make such a move seamless is a domain name, i.e., money.
+
+The one nice feature missing by having a static blog is that there
+aren't any user comments. But are user comments actually nice? They're
+prone to spam, which requires my intervention, and their core feature of
+_communication_ is easily accomplished via email. I can then relay
+interesting user comments to all users in future posts. Indeed, this
+post is an answer to such a user comment.
+
