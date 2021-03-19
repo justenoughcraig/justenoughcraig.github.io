@@ -1,0 +1,100 @@
+---
+title: "MLB rule changes"
+date: 2021-03-18
+---
+
+The recent _USA Today_ article by Gabe Lacques about MLB rule changes
+(print-only, no link?) inspired me to write this post, in large part
+because I disagree with most of what Mr. Lacques wrote. Sadly, I foresee
+MLB continuing to make changes I don't like and failing to make changes
+I would like—all in part of the bigger trend of pro sports becoming more
+serious and less weird and fun.
+
+* *7-inning doubleheaders.* Thumbs down. Something about 7-inning games
+  makes me think _little league_, as in, it's not something grown men
+  should be doing. Generally, I don't like rule proposals that decrease
+  how much happens in a game, as there's a better way to speed up the
+  game. (Hint: pitch clock.) Lastly, there's the matter of math: a
+  doubleheader of 7-inning games isn't a doubleheader, it's a
+  one-and-five-ninths-header.
+
+* *10th inning runner on second base.* Thumbs down. The 10th inning is
+  too early to panic about how long a game is taking. I think this rule
+  could make sense for some cases, such as starting with the 13th inning
+  of a getaway game, but we should be careful about this. One of the
+  beautiful aspects of baseball is that a game goes on for as long as it
+  must by _following normal rules_.
+
+* *Three-batter minimum.* Thumbs up. If I were in charge, I would one-up
+  this rule and require pitchers to finish the inning. The only
+  exception would be to exit mid-inning and go straight to the injured
+  list.
+
+* *Expanded playoffs.* Thumbs up. Notwithstanding my nostalgia for the
+  old days of a tiny playoff field, playoff baseball is too much fun not
+  to expand. Indeed, I would one-up the expanded postseason by adding
+  two mid-season tournaments, one in June and the other in August. All
+  thirty teams would enter both tournaments, and good results in either
+  would win points that would contribute towards wildcard berths for the
+  postseason playoffs. A mediocre regular season team should make the
+  postseason playoffs if they're clutch enough.
+
+
+* *Universal DH.* Thumbs down. Some people say the game is better when
+  the best players are on the field, which is supposed to be interpreted
+  as pitchers not hitting, but in actuality it means we should allow
+  nine designated hitters, which is, of course, stupid. It also means
+  high school and college games are less fun, which is also stupid. But
+  stupid premises lead to stupid conclusions. If I want to watch a team
+  full of hyper-specialized people doing their one thing, I'll attend
+  more work meetings. No thanks. Suffice to say, my favorite all-time
+  MLB moment I've seen in person was https://youtu.be/cUGesL4Efbc[relief
+  pitcher Archie Bradley's two-out triple] in the 2017 NL wildcard
+  game—in large part because of how improbable it was.
+
+Other ideas:
+
+* *Add a pitch clock.* Baseball is dithering about speeding up the game
+  when all that's needed is a pitch clock that prevents slow pitchers
+  from being themselves. I boycott certain starting pitchers for
+  in-person games because of those pitchers' propensity to dawdle. The
+  pitcher dictates the rhythm of the game, and a fast tempo makes for a
+  fun game to watch, regardless of outcome.
+
+* *Bring back the four-pitch intentional walk.* The abracadabra
+  (no-pitch) walk, added in 2017, was sold as speeding up the game,
+  which is unlikely considering that MLB was averaging
+  https://www.baseball-reference.com/leagues/MLB/bat.shtml[only 0.2
+  intentional walks per game at the time]. As far as solving the stated
+  problem, this is a non-solution. Whereas, requiring pitchers to throw
+  the ball allows for https://youtu.be/IJBMm70kRgo[crazy things to
+  happen]—all part of the essence of baseball. Besides, intentional
+  walks typically happen during the dramatic parts of a game, which
+  aren't the parts that should be sped up.
+
+* *Bring back the original pennant.* Long before MLB or the modern era,
+  there was
+  https://en.wikipedia.org/wiki/National_Association_of_Base_Ball_Players[one
+  pennant], which stayed with a team until that team lost a series to
+  another team. An intrepid soul on the Internet has
+  https://www.reddit.com/r/baseball/comments/jzmwct/the_original_pennant_post_2020_update/[tracked
+  this pennant into modern times]. What's the point? It's a fun and
+  weird sideshow. Formalize it. Make the pennant a tangible asset—i.e.,
+  flag, trophy, whatever—that travels with the winning team. But, more
+  importantly, assign cash bonuses to the team and players for winning
+  it and holding it. Or maybe have the league fund ticket discounts for
+  fans while their team holds the pennant. The point is to find ways to
+  make the regular season more varied and fun—especially for
+  non-contending teams.
+
+* *Two-game and four-game playoff series.* It's a mathematical fact that
+  a playoff series can be an even number of games. The way it works is
+  the higher seed wins the series by winning only half the games,
+  whereas the lower seed wins the series by winning half-plus-one games.
+  For example, in a two-game series, the higher seed needs only one win,
+  whereas the lower seeds needs to win both games. This lopsidedness is
+  a feature, not a bug, when this format is used in wildcard situations
+  and first rounds in expanded playoffs where the higher seed should
+  have a big advantage. The idea is to give potential Cinderella teams
+  their chance while giving the highly seeded teams their due.
+
